@@ -24,7 +24,7 @@ mvn clean package
 - create an unsplash application
 - find out the access key in unsplash application detail page
 
-3. Config MCP Server
+4. Config MCP Server
 ```
 {
   "mcpServers": {
@@ -44,3 +44,6 @@ mvn clean package
   }
 }
 ```
+
+Thanks
+- [Python Version Unsplash MCP Server](https://github.com/hellokaton/unsplash-mcp-server)
