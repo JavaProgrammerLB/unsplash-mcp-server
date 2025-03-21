@@ -45,5 +45,5 @@ mvn clean package
 }
 ```
 
-Thanks
+## Thanks
 - [Python Version Unsplash MCP Server](https://github.com/hellokaton/unsplash-mcp-server)
