@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: unsplash-mcp-server
+  ai:
+    mcp:
+      server:
+        name: unsplash
+        version: 1.0.0
